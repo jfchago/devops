@@ -37,8 +37,8 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:git:ssh://github.com:jfchago/devops.git</connection>
-		<developerConnection>scm:git:ssh://github.com:jfchago/devops.git</developerConnection>
+		<connection>scm:git:ssh://git@github.com:jfchago/devops.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com:jfchago/devops.git</developerConnection>
 		<url>git@github.com:jfchago/devops.git</url>
 		<tag>HEAD</tag>
 	</scm>
